@@ -22,5 +22,4 @@ You can see the app in action below:
 
 *Note:* The video is located in the `media` folder of this repository.
 
----
 
